@@ -121,7 +121,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/FantoX001/Atlas-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/AYUSH-PANDEY023/Bu">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
